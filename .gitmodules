@@ -1,0 +1,3 @@
+[submodule "illuminate-mern-application"]
+	path = illuminate-mern-application
+	url = https://github.com/Hoanglongly1101/illuminate-mern-application.git
